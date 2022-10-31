@@ -1,26 +1,35 @@
 ---
 layout: home
-title: FluentTTS
-subtitle: Text-dependent Fine-grained Style Control for Multi-style TTS
+title: STYLE MODELING FOR MULTI-SPEAKER ARTICULATION-TO-SPEECH
 ---
 
-Submitted to INTERSPEECH 2022 (Paper ID: 988)
+Submitted to ICASSP 2023 
 
 <h3>Authors
 </h3>
 
-Changhwan Kim, Seyun Um, Hyungchan Yoon, Hong-goo Kang
+Miseul Kim, Zhenyu Piao, Jihyun Lee, Hong-goo Kang
 
 <br />
 
 <h3>Proposed Method</h3>
 <img src="./assets/img/unified_fig.png">
 
-In this paper, we propose a method to flexibly control the local prosodic variation of a neural text-to-speech (TTS) model. To provide expressiveness for synthesized speech, conventional TTS models utilize utterance-wise global style embeddings that are obtained by compressing frame-level embeddings along the time axis. However, since utterance-wise global features do not contain sufficient information to represent the characteristics of word-level local features, they are not appropriate for direct use on controlling prosody at a fine scale. 
-In multi-style TTS models, it is very important to have the capability to control local prosody because it plays a key role in finding the most appropriate text-to-speech pair among many one-to-many mapping candidates.
-To explicitly present local prosodic characteristics to the contextual information of the corresponding input text, we propose a module to predict the fundamental frequency ($F0$) of each text by conditioning on the utterance-wise global style embedding.
-We also estimate multi-style embeddings using a multi-style encoder, which takes as inputs both a global utterance-wise embedding and a local $F0$ embedding.
-Our multi-style embedding enhances the naturalness and expressiveness of synthesized speech and is able to control prosody styles at the word-level or phoneme-level.
+In this paper, we propose a neural articulation-to-speech
+(ATS) framework that synthesizes high-quality speech from
+articulatory signal in a multi-speaker situation. Most conventional
+ATS approaches only focus on modeling contextual information
+of speech from a single speaker’s articulatory features.
+To explicitly represent each speaker’s speaking style as
+well as the contextual information, our proposed model estimates
+style embeddings, guided from the essential speech
+style attributes such as pitch and energy. We adopt convolutional
+layers and transformer-based attention layers for our
+model to fully utilize both local and global information of articulatory
+signals, measured by electromagnetic articulography
+(EMA). Our model significantly improves the quality of
+synthesized speech compared to the baseline in terms of objective
+and subjective measurements in the Haskins dataset.
 
 <br />
 
