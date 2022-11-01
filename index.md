@@ -72,10 +72,10 @@ and subjective measurements in the Haskins dataset.
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/8_prop_anger_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/4_prop_angry_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/45_prop_anger_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/17_prop_angry_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B02_S46_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B03_S01_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F04_B03_S02_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S21_R01_N.wav"></audio></td>
     </tr>
 </table>
 
