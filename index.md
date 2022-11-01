@@ -33,7 +33,7 @@ and subjective measurements in the Haskins dataset.
 
 <br />
 
-<h3>Samples
+<h3>Samples per speakers
 </h3>
 
 <h4>F01</h4>
@@ -58,10 +58,10 @@ and subjective measurements in the Haskins dataset.
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/angry/anger_f_300.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/angry/angry_f_0750.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/angry/anger_m_161.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/angry/angry_m_0082.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B02_S46_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B03_S01_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F04_B03_S02_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B04_S21_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Baseline</td>
