@@ -63,8 +63,6 @@ and subjective measurements in the Haskins dataset.
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S03_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S21_R01_N_target.wav"></audio></td>
     </tr>
-   
-    
     <tr>
         <td class="first-col">Baseline</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B02_S46_R02_N.wav"></audio></td>
@@ -108,14 +106,12 @@ and subjective measurements in the Haskins dataset.
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B06_S46_R01_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B09_S39_R01_N_target.wav"></audio></td>
     </tr>
-   
-    
     <tr>
         <td class="first-col">Baseline</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B01_S52_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B02_S19_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F01_B04_S03_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B06_S46_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B09_S39_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
@@ -134,38 +130,38 @@ and subjective measurements in the Haskins dataset.
         	Text
         </td>
         <td class="text">
-            엄마가 날 안낳았다니까 더 우울하고 더 슬퍼. (It's even more depressing and sadder that my mom didn't give birth to me.)
+            Two blue fish swam in the tank. 
         </td>
         <td class="text">
-            나 아까워서 우리 혜인이 시집 못보내겠어. (I can't let my Hye-in get married because it's such a waste.)
+            The ink stain dried on the finished page.
         </td>
         <td class="text">
-            오늘 만나면 어제 했던 말 취소한다고 할까봐 밤새 걱정했어. (When we met today, I was afraid you'd take back what you said yesterday.)
+            The young kid jumped the rusty gate.
         </td>
         <td class="text">
-            공휴일이라 쉬실텐데, 전화드려서 죄송합니다. (I'm sorry to call you because it's a public holiday.)
+            This plank was made for walking on.
         </td>
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/sad/sadness_f_709.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/sad/sad_f_1303.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/sad/sadness_m_581.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/sad/sad_m_0089.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S26_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/42_cer_base_sadness_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/2_cer_base_sad_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/27_cer_base_sadness_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/29_cer_base_sad_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B01_S26_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B02_S13_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B03_S21_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/baseline/F03_B07_S07_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/42_prop_sadness_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/2_prop_sad_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/27_prop_sadness_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/sad/29_prop_sad_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B01_S26_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B02_S13_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B03_S21_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F03/F03_B07_S07_R01_N.wav"></audio></td>
     </tr>
 </table>
 
