@@ -58,17 +58,17 @@ and subjective measurements in the Haskins dataset.
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B02_S46_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B03_S01_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F04_B03_S02_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples_demo/F01/F01_B04_S21_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B02_S46_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B03_S01_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F04_B03_S02_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S21_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/8_cer_base_anger_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/4_cer_base_angry_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/45_cer_base_anger_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/angry/17_cer_base_angry_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B02_S46_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B03_S01_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baesline/F04_B03_S02_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B04_S21_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
