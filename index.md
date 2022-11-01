@@ -33,7 +33,7 @@ and subjective measurements in the Haskins dataset.
 
 <br />
 
-<h3>Samples per speakers
+<h3>Samples
 </h3>
 
  <h4>Female (F03)</h4>
@@ -88,38 +88,38 @@ and subjective measurements in the Haskins dataset.
         	Text
         </td>
         <td class="text">
-            Two blue fish swam in the tank. 
+            Port is a strong wine with a smoky taste.
         </td>
         <td class="text">
-            The ink stain dried on the finished page.
+            The office paint was a dull, sad tan.
         </td>
         <td class="text">
-            The young kid jumped the rusty gate.
+            They felt gay when the ship arrived in port.
         </td>
         <td class="text">
-            This plank was made for walking on.
+            Once we stood beside the shore.
         </td>
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/neutral/neutral_f_224.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/neutral/neutral_f_1818.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/neutral/neutral_m_746.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/neutral/neutral_m_0122.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S20_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S47_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S59_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B07_S53_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/16_cer_base__neutral_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/2_cer_base__neutral_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/48_cer_base__neutral_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/28_cer_base__neutral_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S20_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S47_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S59_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B07_S53_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/16_prop__neutral_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/2_prop__neutral_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/48_prop__neutral_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/neutral/28_prop__neutral_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S20_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S47_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S59_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B07_S53_R01_N.wav"></audio></td>
     </tr>
 </table>
 
