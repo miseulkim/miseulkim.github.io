@@ -44,37 +44,39 @@ and subjective measurements in the Haskins dataset.
         	Text
         </td>
         <td class="text">
-            두 사람 눈치 보기 싫어서 한 발이라도 먼저 나간다. (I don't want to look at them, so I'll take a step forward.)
+            Thieves who rob friends deserve jail.
         </td>
         <td class="text">
-            아침 하기 싫어서 나오는 거 내 모를 줄 알아? (Don't you think I don't know you're coming out because you don't want to make breakfast?)
+            Type out three lists of orders.
         </td>
         <td class="text">
-            내 앞에 앉기 싫은 모양인데, 그럼 앉지마. (You don't want to sit in front of me, then don't sit down.)
+            Eight miles of woodland burned to waste.
         </td>
         <td class="text">
-            들어오기 싫으면, 이참에 끝장을 내라고 그러세요. (If he don't want to come in, tell him to finish it this time.)
+            The brown house was on fire to the attic.
         </td>
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B02_S46_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B03_S01_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F04_B03_S02_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S03_R02_N_target.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S21_R01_N_target.wav"></audio></td>
     </tr>
+   
+    
     <tr>
         <td class="first-col">Baseline</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B02_S46_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B03_S01_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baesline/F04_B03_S02_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baesline/F01_B04_S03_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B04_S21_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B02_S46_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B03_S01_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F04_B03_S02_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S03_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/F01_B04_S21_R01_N.wav"></audio></td>
     </tr>
 </table>
