@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: FluentTTS
+title: STYLE MODELING FOR MULTI-SPEAKER ARTICULATION-TO-SPEECH
 
 # Your name to show in the footer
-author: Changhwan Kim, Seyun Um, Hyungchan Yoon, Hong-goo Kang
+author: Miseul Kim, Zhenyu Piao, Jihyun Lee, Hong-goo Kang
 
 # --- List of links in the navigation bar --- #
 
@@ -80,7 +80,7 @@ round-avatar: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kchap0118.github.io/fluenttts"
+#url-pretty: "miseulkim.github.io/fluenttts"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
