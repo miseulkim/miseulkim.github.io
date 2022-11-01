@@ -69,7 +69,7 @@ and subjective measurements in the Haskins dataset.
         <td class="first-col">Baseline</td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B02_S46_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B03_S01_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baesline/F01_B04_S03_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B04_S03_R02_N.wav"></audio></td>
         <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F01/baseline/F01_B04_S21_R01_N.wav"></audio></td>
     </tr>
     <tr>
@@ -89,38 +89,40 @@ and subjective measurements in the Haskins dataset.
         	Text
         </td>
         <td class="text">
-            난 아저씨가 빨리 우리 아빠가 됐으면 좋겠어. (I hope he will be my father soon.)
+            The crooked maze failed to fool the mouse. 
         </td>
         <td class="text">
-            엿장수 맘대로 아니고, 지혜 맘대로. (It's not up to the candy seller, it's up to Jihye.)
+            The pearl was worn in a thin silver ring.
         </td>
         <td class="text">
-            그런 맘 먹기 힘들었을텐데, 고맙다 인경아. (It must have been hard for you to make up your mind, thank you In-kyung.)
+            Let it burn, it gives us warmth and comfort.
         </td>
         <td class="text">
-            아뇨, 전 호텔에서의 만찬보다는 이런 자리가 훨씬 편하고 좋은데요. (No, I like this kind of place much more comfortable than a hotel feast.)
+            She blushed when he gave her a white orchid.
         </td>
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/happy/happy_f_422.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/happy/happy_f_0804.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/happy/happy_m_535.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/ref/happy/happy_m_0088.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B01_S52_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B02_S19_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B06_S46_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B09_S39_R01_N_target.wav"></audio></td>
     </tr>
+   
+    
     <tr>
         <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/4_cer_base_happy_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/13_cer_base_happy_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/10_cer_base_happy_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/28_cer_base_happy_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B01_S52_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B02_S19_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F01_B04_S03_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/baseline/F02_B06_S46_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/4_prop_happy_f1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/13_prop_happy_f2.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/10_prop_happy_m1.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/samples/happy/28_prop_happy_m2.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B01_S52_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B02_S19_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B06_S46_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/F02/F02_B09_S39_R01_N.wav"></audio></td>
     </tr>
 </table>
 
