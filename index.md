@@ -88,16 +88,16 @@ and subjective measurements in the Haskins dataset.
         	Text
         </td>
         <td class="text">
-            세상에 둘도 없는 범생이 차림으로 갈 거다. (I'm going to dress up as the best student in the world.)
+            Two blue fish swam in the tank. 
         </td>
         <td class="text">
-            일본 작가가 쓴 소설을 출판하고 싶은가봐. (He seems to want to publish a novel written by a Japanese writer)
+            The ink stain dried on the finished page.
         </td>
         <td class="text">
-            애한테 이런 불량식품을 사먹이면 어떡해요. (You shouldn't buy such junk food for that kid.)
+            The young kid jumped the rusty gate.
         </td>
         <td class="text">
-            아빠, 우리 유치원 얼마나 좋은데요. (Dad, my kindergarten is so nice.)
+            This plank was made for walking on.
         </td>
     </tr>
     <tr>
