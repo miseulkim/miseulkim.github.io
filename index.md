@@ -102,24 +102,24 @@ and subjective measurements in the Haskins dataset.
     </tr>
     <tr>
         <td class="first-col">Ground Truth</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S20_R02_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S47_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S59_R01_N_target.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B07_S53_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S20_R02_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S47_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S59_R01_N_target.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B07_S53_R01_N_target.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Baseline</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S20_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S47_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B03_S59_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/F03_B07_S53_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S20_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S47_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B03_S59_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/baseline/M03_B07_S53_R01_N.wav"></audio></td>
     </tr>
     <tr>
         <td class="first-col">Proposed</td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S20_R02_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S47_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B03_S59_R01_N.wav"></audio></td>
-        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/F03_B07_S53_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S20_R02_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S47_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B03_S59_R01_N.wav"></audio></td>
+        <td><audio controls="" preload="none"><source src="./assets/Samples_demo/M03/M03_B07_S53_R01_N.wav"></audio></td>
     </tr>
 </table>
 
