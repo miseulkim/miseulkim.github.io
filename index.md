@@ -16,7 +16,7 @@ Miseul Kim, Zhenyu Piao, Jihyun Lee, Hong-goo Kang
 <br />
 
 <h3>Proposed Method</h3>
-<img src="./assets/img/Proposed_v5.png" width="400">
+<img src="./assets/img/Proposed_v6.png" width="400">
 
 In this paper, we propose a neural articulation-to-speech
 (ATS) framework that synthesizes high-quality speech from
